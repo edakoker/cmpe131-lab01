@@ -1,0 +1,3 @@
+Using branches in Git is powerful because it lets team members work in parallel without breaking the main code. In this lab, I saw how I could make changes on a separate branch and later merge them into main safely.
+
+Branches help prevent problems such as overwriting teammates’ work or mixing unfinished features into the main project. This makes collaboration safer and keeps the project history clear and organized.
